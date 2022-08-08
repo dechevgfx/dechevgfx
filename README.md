@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Georgi Dechev
 ### And this is my portfolio:
 
-- 🧙‍♂️ I’m currently working on ST&NS LTD company website, for which I use HTML5, CSS3, JS and Bootstrap (front-end framework).
 - 🔭  You can find some small projects on HTML5, CSS3 and JavaScript at https://github.com/dechevgfx/myProjects
 - 💻 I’m currently learning JavaScript Development in Software University
 - 💬 Ask me about JS, crypto, finance and anything else. Our brains are unlimited in capacity and I think you can learn everything!
