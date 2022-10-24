@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Georgi Dechev
 ### And this is my portfolio:
 
-- 🔭  You can find some small projects on HTML5, CSS3 and JavaScript at https://github.com/dechevgfx/myProjects
+- 🔭  You can check my portfolio and CV at: https://dechevgfx.github.io/portfolio/
 - 💻 I’m currently learning JavaScript Development in Software University
 - 💬 Ask me about JS, crypto, finance and anything else. Our brains are unlimited in capacity and I think you can learn everything!
 - ⚡ Fun fact: I studied finance at university, but surprisingly I like programming more.
