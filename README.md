@@ -8,7 +8,8 @@
 
 
 <h3>🧠 Motivated and passionate JavaScript Developer with a strong foundation in web development technologies. I am ready to tackle exciting challenges in software development.</h3>
-<img src="[https://skills.thijs.gg/icons?i=js,nodejs,html,css,bootstrap,vue,python](https://skills.thijs.gg/icons?i=js,nodejs,html,css,bootstrap,vue,python,mongodb,firebase,expressjs,solidity,react,typescript,angular)">
+
+<img src="https://skills.thijs.gg/iconsÏi=js,nodejs,html,css,bootstrap,vue,python,mongodb,firebase,expressjs,solidity,react,typescript,angular)">
 
 
   <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?username=dechevgfx&theme=dark&show_icons=true">
